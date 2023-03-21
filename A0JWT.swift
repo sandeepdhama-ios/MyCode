@@ -25,6 +25,7 @@ import Foundation
 /// Decodes a JWT
 @objc(A0JWT)
 public class _JWT: NSObject {
+    //test
 
     var jwt: JWT
 
