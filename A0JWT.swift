@@ -29,6 +29,8 @@ public class _JWT: NSObject {
     
     //test 3
 // test 2
+    
+    //test 4
     var jwt: JWT
 
     init(jwt: JWT) {
