@@ -26,7 +26,7 @@ import Foundation
 @objc(A0JWT)
 public class _JWT: NSObject {
     //test
-
+// test 2
     var jwt: JWT
 
     init(jwt: JWT) {
